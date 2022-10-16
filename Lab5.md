@@ -4,3 +4,5 @@
 https://user-images.githubusercontent.com/100060507/196021001-801664c4-01c8-44a1-adf9-5babbd3e48d1.mp4
 
 ## Lab5-2 LCD顯示溫度感應器的溫度;若溫度<38 綠LED亮; 若大於38度, 紅色LED亮
+
+https://user-images.githubusercontent.com/100060507/196021941-6d7b38aa-2d2b-4a15-965e-1a3c19b79799.mp4
