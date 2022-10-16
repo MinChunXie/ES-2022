@@ -7,3 +7,9 @@ https://user-images.githubusercontent.com/100060507/193440516-bbf9b12f-e555-414a
 
 https://user-images.githubusercontent.com/100060507/193441015-f86a112e-6eb2-44d3-8043-a9e6db630eb6.mp4
 
+## Lab 4-3 LCD顯示"Hello" + 你的英文名字 
+
+https://user-images.githubusercontent.com/100060507/196020239-8da94031-f104-4c33-bcad-56820c1661ee.mp4
+
+## Lab 4-4 整合超音波感測器 + LCD + LED
+
