@@ -5,3 +5,5 @@ https://user-images.githubusercontent.com/100060507/197375705-baae573e-2c23-4930
 
 ## Lab6-2 分享一個你最喜歡的實作 (電路即可)到你的GitHub
 
+https://user-images.githubusercontent.com/100060507/197376930-d193fbde-7bab-4e81-af6a-5849bcd908f6.mp4
+
