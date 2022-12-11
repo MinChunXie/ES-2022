@@ -6,3 +6,5 @@
 ![image](https://user-images.githubusercontent.com/100060507/205477546-c5489561-cabc-4272-b57c-0fde69220b03.png)
 
 ## Lab 10-3 人臉辨識實際應用
+
+![image](https://user-images.githubusercontent.com/100060507/206888905-a2d86476-9835-4659-9f46-e134af1d0b99.png)
